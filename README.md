@@ -27,7 +27,7 @@ Open VsCode Terminal<br>
 
 
 ## Relevant Links
-GitHub Repo:
+GitHub Repo:https://github.com/Mary90272/Book-Search-Engine
 <br>
 Deployed Application:
 <br>
